@@ -1,4 +1,4 @@
-## Oiii! Eu sou Lucas, estou cursando ADS.
+## Lucas de Morais Nascimento Taguchi
 
 
 <div align="center">
