@@ -1,4 +1,4 @@
-# Hello <span style={color="red"}>world!</span>
+# Hello world! My name is Lucas and welcome the me profile
 
 <div align="center">
   <a href="https://github.com/lucasmoraist">
