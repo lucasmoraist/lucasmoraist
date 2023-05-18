@@ -1,4 +1,4 @@
-# Hello <span color="red">world!</span>
+# Hello <span style={color="red"}>world!</span>
 
 <div align="center">
   <a href="https://github.com/lucasmoraist">
