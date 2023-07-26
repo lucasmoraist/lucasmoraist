@@ -1,4 +1,13 @@
-# Hello world! My name is Lucas and welcome the me profile
+# Hello world! My name is Lucas and welcome to me profile
+
+<div style="background-color: #000">
+  <p>
+    Falando um pouco de mim eu diria que sou uma pessoa <strong>disciplinada</strong>, quando sei oque devo fazer eu persisto até o final. Amo esportes, foi o que me 
+    ensinou a <strong>trabalhar melhor em equipe</strong> e conhecer pessoas diferentes com estilos diferentes de pensar, eu diria que isso me fez ser mais cabeça aberta 
+    para idéias, pessoas, metodologias <strong>entre outras coisas novas</strong>. Também amo jogos, principalmente aqueles com histórias que é
+    necessário desvendar puzzles no meio do jogo.
+  </p>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
