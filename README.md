@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=a663cc&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Lucas+Morais;I'm+20+years+old;I'm+from+Brazil;I'm+Full+Stack+Developer;be+welcome!+:%29)](https://git.io/typing-svg)
 <section>
-    <h1>Hello world! My name is Lucas and welcome to my profile</h1>
     <div>
         <h2>About myself</h2>
         <p>
