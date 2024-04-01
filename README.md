@@ -28,7 +28,7 @@
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
         <div style="background: radial-gradient(circle at 50% 50%, #FF6060, #8000FF); height: 28px; width: 100px; margin-bottom: 6px; display: flex; align-items: center; justify-content: center;">
-            <a href="http://portfolio-web-lucas.s3-website-us-east-1.amazonaws.com/" target="_blank" 
+            <a href="http://lucasmoraist.github.io/Portfolio" target="_blank" 
                 style="color: #fff; text-decoration:none;">
                 My portfolio
             </a>
