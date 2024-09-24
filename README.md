@@ -3,7 +3,7 @@
     <div>
         <h2>About myself</h2>
         <p>
-            Me chamo de Lucas de Morais, sou Dev Full Stack! Apaixonado por programação desde os 18 anos, sou de São Paulo Capital, nascido em 2004. Sou Formado em Análise e Desenvolvimento de Software, na FIAP. Além da programação eu também adoro praticar esportes e com ele aprendi a trabalhar muito bem equipe e me esforçar para dar ótimos resultados individualmente. Nas horas vagas gosto de assistir animes, jogar jogos eletrônicos, ir a academia ou praticar algum esporte.
+            Me chamo de Lucas de Morais, sou Dev Java! Apaixonado por programação desde os 18 anos, sou de São Paulo Capital, nascido em 2004. Sou Formado em Análise e Desenvolvimento de Software, na FIAP. Além da programação eu também adoro praticar esportes e com ele aprendi a trabalhar muito bem equipe e me esforçar para dar ótimos resultados individualmente. Nas horas vagas gosto de assistir animes, jogar jogos eletrônicos, ir a academia ou praticar algum esporte.
         </p>
     </div>
     <div style="display: flex, align-items: center">
