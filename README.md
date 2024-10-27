@@ -14,7 +14,6 @@
         <img alt="Lucas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img alt="Lucas-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img alt="Lucas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </div>
     <h2>Contact Me</h2>
     <div style="display: flex; align-items: center;">
@@ -27,11 +26,11 @@
         <a href="https://www.linkedin.com/in/lucas-morais-152672219/" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
-        <div style="background: radial-gradient(circle at 50% 50%, #FF6060, #8000FF); height: 28px; width: 100px; margin-bottom: 6px; display: flex; align-items: center; justify-content: center;">
+<!--         <div style="background: radial-gradient(circle at 50% 50%, #FF6060, #8000FF); height: 28px; width: 100px; margin-bottom: 6px; display: flex; align-items: center; justify-content: center;">
             <a href="http://lucasmoraist.github.io/Portfolio" target="_blank" 
                 style="color: #fff; text-decoration:none;">
                 My portfolio
             </a>
-        </div>
+        </div> -->
     </div>
 </section>
