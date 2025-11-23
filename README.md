@@ -30,11 +30,5 @@
         <a href="https://www.linkedin.com/in/lucas-morais-152672219/" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
-        <div style="background: radial-gradient(circle at 50% 50%, #FF6060, #8000FF); height: 28px; width: 100px; margin-bottom: 6px; display: flex; align-items: center; justify-content: center;">
-            <a href="https://lmdeveloper.com/" target="_blank" 
-                style="color: #fff; text-decoration:none;">
-                Meu Portfólio
-            </a>
-        </div>
     </div>
 </section>
